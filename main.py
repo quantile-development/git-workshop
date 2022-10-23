@@ -1,3 +1,5 @@
+# This was made in development
+
 from urllib.request import Request, urlopen
 
 def fetch_random_dad_joke() -> str:
