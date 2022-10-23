@@ -16,4 +16,4 @@ def fetch_random_dad_joke() -> str:
 print(fetch_random_dad_joke())
 ```
 
-Authored by Jules Huisman
+Authored by Jules Huisman from Quantile Development
